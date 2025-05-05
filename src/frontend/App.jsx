@@ -11,7 +11,7 @@ export default function App() {
             <div className='header'>
                 <div className='header-logo'>
                   <Link to="/" className='title'>Climate Change Analysis</Link>
-                  <img src="src/cloud.png" alt="Logo" className='logo' />
+                  <img src="src/assets/cloud.png" alt="Logo" className='logo' />
                 </div>
                 <Link to="/references" className='header-item'>References</Link>
             </div>

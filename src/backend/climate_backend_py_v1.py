@@ -15,9 +15,9 @@ except ImportError:
     print("Install it using: pip install statsmodels")
     STATSMODELS_INSTALLED = False
 
-NATIONAL_TEMP_CSV = 'climdiv_national_year.csv'
-CO2_CSV = 'co2_concentration.csv'
-API_WEATHER_JSON = 'api_weather_data.json'
+NATIONAL_TEMP_CSV = 'data/climdiv_national_year.csv'
+CO2_CSV = 'data/co2_concentration.csv'
+API_WEATHER_JSON = 'data/api_weather_data.json'
 
 def getLocation(location_name):
     """Fetches latitude and longitude for a given location name."""

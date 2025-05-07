@@ -37,7 +37,7 @@ The project includes:
 1.  **Clone Repository:**
     ```bash
     git clone https://github.com/Mattmart42/climate-change-analysis
-    cd climate-app
+    cd climate-change-analysis
     ```
 
 2.  **Backend Setup:**

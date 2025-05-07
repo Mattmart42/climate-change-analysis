@@ -74,9 +74,8 @@ The project includes:
     * **Important:** Ensure you meet the login/network requirements for Statista.
     * Run the scraper (this may take 20-30 seconds):
         ```bash
-        python ../data_prep_script.py --scrape
+        python ../backend/scraper.py --scrape
         ```
-        *(Adjust path to script if necessary)*
     * This should generate/update `co2_concentration.csv` in the `backend` directory.
 
 ## Running the Application

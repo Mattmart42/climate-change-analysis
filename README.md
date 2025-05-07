@@ -42,7 +42,7 @@ The project includes:
 
 2.  **Backend Setup:**
     ```bash
-    cd backend
+    cd src/backend
     # Create and activate a virtual environment (recommended)
     python -m venv venv
     # Windows: venv\Scripts\activate

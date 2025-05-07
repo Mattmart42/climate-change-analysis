@@ -93,7 +93,7 @@ The project includes:
     * Open a *new* terminal in the `frontend` directory.
     * Run the React development server:
         ```bash
-        npm start
+        npm run dev
         # or: yarn start
         ```
     * This should automatically open the application in your default web browser, usually at `http://localhost:3000`. If not, navigate to that URL manually.
